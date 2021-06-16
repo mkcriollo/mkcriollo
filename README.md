@@ -4,7 +4,7 @@
 
 Im a Software Engineer, that recently graduated from App Academy, a highly selective software engineering program. Born and raise in NYC 🗽, interested in developing creative software projects with JavaScript,Python,PostgresSQL,Ruby,HTML,CSS,Node.js,Express,MongoDB.
 
-You can see what Im currently up to at [my website](https://mkcriollo.github.io/profolio/)
+You can see what Im currently up to at www.mikecriollo.com
 
 ### 📬  CONTACT ME
 
