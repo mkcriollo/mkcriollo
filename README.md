@@ -1,4 +1,4 @@
-![alt text](https://export-download.canva.com/hnUss/DAEhj8hnUss/15/0/0001-2970529993.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20210615%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210615T175402Z&X-Amz-Expires=83122&X-Amz-Signature=933900e8f9428a7928d107d0e893b3e6012d81cccc784a980e15f7755ca2fb14&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Blue%2520and%2520Yellow%2520Technology%2520LinkedIn%2520Banner.jpg&response-expires=Wed%2C%2016%20Jun%202021%2016%3A59%3A24%20GMT)
+![alt text](https://i.ibb.co/xST3sS9/Blue-and-Yellow-Technology-Linked-In-Banner-1.jpg)
 
 ### Hi there 👋
 
